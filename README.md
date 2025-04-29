@@ -42,7 +42,3 @@ python src/merge_tool.py --file1 data/file1.csv --file2 data/file2.csv --output 
 - `data/file1.csv` – Example input file
 - `data/file2.csv` – Example input file
 - `README.md` – Project documentation
-
----
-
-🔍 Built with Pandas, CLI love, and a dash of FuzzyWuzzy magic ✨
